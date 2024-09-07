@@ -1,0 +1,11 @@
+Reference:
+1.Seaborn: Waskom, M., et al. (2021). Seaborn: statistical data visualization. Journal of Open Source Software, 6(60), 3021.
+2.Seabold, S., & Perktold, J. (2010). Statsmodels: Econometric and Statistical Modeling with Python. Proceedings of the 9th Python in Science Conference. 
+3.Wes McKinney. (2012). Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython. O Reilly Media.
+4.Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830.
+
+
+Dataset Used:
+1.Job Dataset link: https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
+2.Campus Recruitment link: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement
+3.Job Market Analysis Of India lonk: https://www.kaggle.com/code/karankrishna/job-market-analysis-of-india
